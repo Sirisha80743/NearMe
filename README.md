@@ -26,8 +26,8 @@ Execute the programs and publish them.
 
 ## CODE
 ### map.html
- html
-<html>
+ ```html
+ <html>
 <head>
   <title>My City</title>
 </head>
@@ -36,13 +36,13 @@ Execute the programs and publish them.
     <font color="red"><b>HOSUR</b></font>
   </h1>
   <h3 align="center">
-    <font color="blue"><b>SIRISHA P (212224040321)</b></font>
+    <font color="blue"><b>P SIRISHA (212224040321)</b></font>
   </h3>
   <center>
     <img src="./img/map.png" usemap="#MyCity" height="610" width="1450">
     <map name="MyCity">
       <area shape="rect" coords="690,310,790,350" href="home.html" title="My Home Town">
-      <area shape="rect" coords="500,50,650,200" href="bengaluru.html" title="Bengaluru">
+      <area shape="rect" coords="500,50,650,200" href="bengalaru.html" title="Bengaluru">
       <area shape="rect" coords="703,469,773,450" href="kelamangalam.html" title="Kelamangalam">
       <area shape="rect" coords="600,300,660,365" href="anekal.html" title="Anekal">
       <area shape="rect" coords="1021,485,1120,536" href="krishnagiri.html" title="Krishnagiri">
@@ -51,9 +51,9 @@ Execute the programs and publish them.
   </center>
 </body>
 </html>
-
+```
 ### home.html
- html
+ ```html
 <html>
 <head>
   <title>My Home Town</title>
@@ -74,10 +74,10 @@ Execute the programs and publish them.
       </p>
 </body>
 </html>
-
+```
 
 ### bengaluru.html
- html
+ ```html
 <html>
 <head>
   <title>My Home Town</title>
@@ -98,10 +98,11 @@ Execute the programs and publish them.
   </p>
 </body>
 </html>
+```
 
 
 ### kelamangalam.html
-html
+```html
 <html>
 <head>
   <title>My Home Town</title>
@@ -122,10 +123,11 @@ html
       </p>
 </body>
 </html>
+```
 
 
 ### anekal.html
- html
+``` html
 <html>
 <head>
   <title>My Home Town</title>
@@ -146,10 +148,10 @@ html
       </p>
 </body>
 </html>
-
+```
 
 ### krishnagiri.html
- html
+``` html
 <html>
 <head>
   <title>My Home Town</title>
@@ -170,10 +172,10 @@ html
       </p>
 </body>
 </html>
-
+```
 
 ### bagalur.html
- html
+``` html
 <html>
 <head>
   <title>My Home Town</title>
@@ -194,7 +196,7 @@ html
       </p>
 </body>
 </html>
-
+```
 
 ## OUTPUT
 ![OUTPUT](/myproject/myapp/static/img/img1.jpg)
