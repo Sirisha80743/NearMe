@@ -221,9 +221,3 @@ Execute the programs and publish them.
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
 
-
-
-
-
-## RESULT
-The program for implementing image maps using HTML is executed successfully.
